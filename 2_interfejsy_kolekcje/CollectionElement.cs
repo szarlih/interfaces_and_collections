@@ -22,7 +22,7 @@ namespace _2_interfejsy_kolekcje
         public CollectionElement(string name, int weight)
         {
             Name = name;
-            _weight = weight;
+            Weight = weight;
         }
 
         public string Name { get; private set; }

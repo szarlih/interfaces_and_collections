@@ -45,6 +45,7 @@
     <Compile Include="CollectionElement.cs" />
     <Compile Include="ElementEnumerator.cs" />
     <Compile Include="IElement.cs" />
+    <Compile Include="MeaningfulNameElement.cs" />
     <Compile Include="MySpecialCollection.cs" />
     <Compile Include="Extensions\MyExtensions.cs" />
     <Compile Include="Partial.cs" />
